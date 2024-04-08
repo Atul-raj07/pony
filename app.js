@@ -207,7 +207,7 @@ time.to(".lazy-girl",{
   y:"20%"
 },"box")
 
-
+// added gsap scrolling animation 
 gsap.to(".top-hed",{
   x:"-100%",
   scrollTrigger:{
